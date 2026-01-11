@@ -36,7 +36,7 @@ pyxel play .\app\main.pyxapp
 ```
 
 ### Webブラウザでの実行
-
+https://kitao.github.io/pyxel/wasm/launcher/?run=5h00t.FallingSand.src.main にアクセス
 
 ## 操作方法
 
