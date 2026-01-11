@@ -1,6 +1,8 @@
 # Falling Sand
 Pyxelを使用したピクセルシミュレーションゲームです。
 
+![screenshot](./docs/img.gif)
+
 ## Pyxelのインストール
 
 このプロジェクトは **Pyxel 2.5.11** を使用しています。
